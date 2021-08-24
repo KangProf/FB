@@ -18,6 +18,11 @@ $ cd FB
 
 $ python2 run.py
 
+Username tools = profacc
+
+Password tools = 123
+
+
 # SOSIAL MEDIA SAYA
 
 * [<img alt="ProfAcc Github" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /><b>Github</b>](https://github.com/KangProf/)<br>
